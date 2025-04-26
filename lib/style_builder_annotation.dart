@@ -1,8 +1,5 @@
-/// Support for doing something awesome.
-///
-/// More dartdocs go here.
+/// A library that exports the core functionality of the `style_builder_annotation` package.
 library;
 
 export 'src/style_builder_annotation.dart';
 
-// TODO: Export any libraries intended for clients of this package.
